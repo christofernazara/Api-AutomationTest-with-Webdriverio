@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Oct 06 15:03:16 ICT 2023","Fri Oct 06 15:03:17 ICT 2023","491","","Go Rest Post Request","","","","should failed to create new user with Blank data",""
+"passed","Fri Oct 06 15:03:16 ICT 2023","Fri Oct 06 15:03:16 ICT 2023","499","","Go Rest Get Request","","","","should return an error for an invalid user (Negative Case)",""
+"passed","Fri Oct 06 15:03:17 ICT 2023","Fri Oct 06 15:03:17 ICT 2023","302","","Go Rest Post Request","","","","should failed to create new user without token/unauthorize access",""
+"passed","Fri Oct 06 15:03:16 ICT 2023","Fri Oct 06 15:03:16 ICT 2023","540","","Go Rest Post Request","","","","should failed to create new user with invalid email",""
+"passed","Fri Oct 06 15:03:15 ICT 2023","Fri Oct 06 15:03:16 ICT 2023","479","","Go Rest Post Request","","","","should create a new user (Positive Case)",""
+"passed","Fri Oct 06 15:03:15 ICT 2023","Fri Oct 06 15:03:16 ICT 2023","563","","Go Rest Get Request","","","","should retrieve a list of users (Positive Case)",""
